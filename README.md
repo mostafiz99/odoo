@@ -1,0 +1,2 @@
+# odoo
+All Odoo Modules
